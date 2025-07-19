@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Baju Flanel Klasik",
+    "harga": 45000,
+    "deskripsi": "Nyaman dan cocok untuk acara santai.",
+    "gambar": "https://picsum.photos/id/101/300/200"
+  },
+  {
+    "id": 2,
+    "nama": "Hoodie Abu",
+    "harga": 65000,
+    "deskripsi": "Hangat dan bergaya.",
+    "gambar": "https://picsum.photos/id/102/300/200"
+  }
+]
